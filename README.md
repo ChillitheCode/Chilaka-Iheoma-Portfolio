@@ -1,3 +1,4 @@
+theme: slate
 # Chilaka Ihoma's Portfolio
 
 # Software Engineering
