@@ -1,4 +1,6 @@
-theme: Slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
 # Chilaka Ihoma's Portfolio
 
 # Software Engineering
