@@ -39,6 +39,7 @@ I designed and implemented of a fuzzy logic system optimised by evolutionary com
 I attempted to develop a object detection feature that could be implemented into Orna RPG. Several object detection methods were tested on objects found on the Orna World Map. Two of the approaches implemented that achieved semi-functionality were, the SIFT approach and the template matching. The template matching approach accurately detected all 11 templates. The SIFT approach had similar results with 10 out of the 11 objects accurately detected. The multi-scale template matching and colour detection approaches didn't reach a functional state due to tight time constraints. The implementations with the highest performances could then be developed to function within the Orna RPG source code. In the long term, object detection could be implemented into the Orna RPG to improve the user experience. The approach could be implemented to specify to the players which enemies, NPCs, buildings are visible on the world map. This solution is ideally focused towards created an altered intuitive experience for "high-need" gamers.
 - This project was completed with Coventry University.
 - Time constraint = 2 weeks
+
 ![OrnaSift](https://user-images.githubusercontent.com/56298476/209700076-d72399a3-8a9f-476a-8d5d-b67c38ae8f05.png)
 ![OrnaTempMatch](https://user-images.githubusercontent.com/56298476/209700140-d394d722-45d4-4587-8c80-48fc644fb60a.png)
 
