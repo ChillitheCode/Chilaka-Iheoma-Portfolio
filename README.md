@@ -1,6 +1,6 @@
 # Software Engineering
----
-## [Project 1: Toy Swap Mobile App](https://github.com/ChillitheCode/Toy-Swap-Mobile-App.git)
+
+## Project 1: Toy Swap Mobile App
 This is a cross platform mobile phone app developed using Xamarin forms. The app targets parents of young children who would rather swap unused children toys with another family, rather than buying a new toy at retail price from a toy distributor. The app is designed in an MVVM framework, and data persistence was supported through the implementation of a cloud service provider (Firebase Realtime Database).
 - This project was completed with Coventry University.
 - Time constraint = 4 weeks
@@ -19,7 +19,7 @@ The core functionality consists of three screens: home page, login, add question
 ---
 # Machine Learning and A.I.
 ---
-## [Project 1: Mice Protein Classification](https://github.com/ChillitheCode/Mice-Protien-Classification.git)
+## Project 1: Mice Protein Classification
 Repository Address: http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression
 Using to classical classification models to classify possible mutations in mice protein data.
 - This project was completed with Coventry University.
