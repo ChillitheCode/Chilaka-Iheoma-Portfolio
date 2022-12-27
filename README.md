@@ -1,3 +1,5 @@
+theme: minima
+
 # Contents
 1. [Software Engineering](#software-engineering)
 2. [Machine Learning and AI](#machine-learning-and-ai)
