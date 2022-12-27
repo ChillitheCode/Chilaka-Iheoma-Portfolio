@@ -22,7 +22,7 @@ The core functionality consists of three screens: home page, login, add question
 [![Demo Link](https://img.youtube.com/vi/eIv7m94olt8/maxresdefault.jpg)](https://youtu.be/eIv7m94olt8)
 ---
 ## Machine Learning and A.I.
----
+
 ### Project 1: Mice Protein Classification
 Repository Address: http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression
 Using to classical classification models to classify possible mutations in mice protein data.
