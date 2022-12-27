@@ -1,4 +1,3 @@
-theme: Slate
 # Software Engineering
 ---
 ## [Project 1: Toy Swap Mobile App](https://github.com/ChillitheCode/Toy-Swap-Mobile-App.git)
