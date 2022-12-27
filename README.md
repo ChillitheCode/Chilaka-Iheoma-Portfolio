@@ -1,4 +1,3 @@
-# Chilaka Ihoma's Portfolio
 
 # Software Engineering
 ---
