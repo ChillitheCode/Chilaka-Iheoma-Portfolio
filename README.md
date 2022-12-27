@@ -1,5 +1,3 @@
-theme: minima
-
 # Chilaka Ihoma's Portfolio
 
 # Software Engineering
