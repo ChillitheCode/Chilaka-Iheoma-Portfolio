@@ -1,4 +1,4 @@
-theme: slate
+theme: pages-themes/slate@v0.2.0
 # Chilaka Ihoma's Portfolio
 
 # Software Engineering
