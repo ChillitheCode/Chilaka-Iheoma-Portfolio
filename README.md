@@ -1,6 +1,7 @@
 # Contents
 1. [Software Engineering](#software-engineering)
 2. [Machine Learning and AI](#machine-learning-and-ai)
+3. [Cyber Security](#cyber-security)
 
 ## Software Engineering
 
@@ -45,3 +46,13 @@ I attempted to develop a object detection feature that could be implemented into
 
 ![OrnaSift](https://user-images.githubusercontent.com/56298476/209700076-d72399a3-8a9f-476a-8d5d-b67c38ae8f05.png)
 ![OrnaTempMatch](https://user-images.githubusercontent.com/56298476/209700140-d394d722-45d4-4587-8c80-48fc644fb60a.png)
+
+## Cyber Security
+
+### Project 1: System Audit
+This audit aims to highlight vulnerabilities within the web applications security so that if further measures need to be a taken to protect website from a real threat, they can be. The most disconcerting issues being the high risk and impact of SQL Injections; including the overwhelming presence of external content embedded within the website’s pages. For the static analysis, I chose to use was a code review; this is when the auditor looks at the code manually and searches for vulnerabilities.
+The tools used for the dynamic analysis were more involved more automation than the static analysis tool. I conducted a web crawl and vulnerability scan using Skipfish. I tested query injections using sqlmap. The audit uncovered some various vulnerabilities, most sitting within the gap of medium risk with high impact. In the static analysis, the code review revealed a few issues with the security of user’s passwords and the ease at which user’s profiles can be accessed. In the dynamic analysis, SQL Map surprisingly didn’t reveal any query injection vulnerabilities. On the other hand, Skipfish unearthed multiple vulnerabilities, one high risk vulnerability ironically being a query injection. There are practices that could be put in place to prevent SQL injection attacks or mitigate the impact of such an attack. The first suggestion would be to generate a threat model for the web application (ideally this would be created during the design phase of the web application). The second suggestion would be to implement further input validation to all the input fields within the web application; not letting the query bypass authentication before checking the format, size, type, and range of the input.
+
+### Project 2: Secure System Design
+The designed platform will support different levels of access for users (Student, Staff, Admin) to reduce Insider Threat risks. Passwords will be sensibly encrypted reducing the risk and impact of Web App Attacks and Data Breaches. The requirements request that logging/analytics are stored with an OPTOUT option. The format of the SQL queries and the possible use of different database services like MongoDB will reduce the threat of a SQL injection attack. The collection of analytics and
+cookies implements appropiate OPT-OUT features in compliance to GDPR regulations.
